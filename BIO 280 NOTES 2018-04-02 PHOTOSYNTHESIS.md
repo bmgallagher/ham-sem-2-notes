@@ -223,10 +223,25 @@ Phtsynth. 	|
 ​		![Image result for chlorophyll light absorption spectrum](https://qph.fs.quoracdn.net/main-qimg-ec7318f0497381d8b83290f0eeaa3b23-c)
 
 - Pigments are molecules that absorb particular wavelengths of light
+
   - Chlorophyll structure: porphyrin ring with metal in the middle (Mg) --> looks a lot like hemoglobin
   - Long non-polar hydrophobic tail to bind it to the thylakoid membrane
+
 - The radiant energy of the photon is converted into heat, etc. on hitting something
+
   - Pigment gets excited, and...
+
     1. ​	release energy as Heat
+
     2. ​        release energy as Fluorescence (light)
+
+    3. ​        Photochemistry --> e- is lost, chlorophyll is oxidized
+
+    4. ​        Resonance Transfer --> transfer of excited state (without transferring electrons)
+
+       ![Image result for energy transfer during photosynthesis](http://www.tankonyvtar.hu/en/tartalom/tamop425/0010_1A_Book_angol_01_novenyelettan/images/img26.png)
+
+
+
+
 
