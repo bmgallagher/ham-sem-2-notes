@@ -4,6 +4,186 @@ Brian Gallagher		    2 April 2018
 
 --------------------
 
+## Water (a review)
+
+```
+> Water is a polar molecule
+	>> it is a solvent (the universal solvent)
+	>> Cohesion (water-to-water) "sticky" 
+		>>> Surface tension
+	>> Adhesion (water-to-polar_surface)
+	>> High specific heat capacity
+		>>> thermal stability
+		>>> evaporative cooling
+> Water potential --> Ψcell = Ψs + Ψp
+	>> Water movement through diffusion
+
+	      diffusivity   area
+			         ||
+		             DA(Δ[H2O])
+		flow   -J =  ----------
+		      	|        l
+	rate (length/time)
+
+> How does water move in plants?
+
+	>> Not a pump (Strausberger's experiment disproved pump)
+
+	>> Not diffusion, because a 1m tall plant would need
+			  8 years to get it from root to tip
+
+	>> Not just Capillary action --> "bulk flow"
+		>> in the 1800's
+			>>> Strausberger was a Physicist, group
+		    	proposed that it's just some physical
+		    	phenomenon
+				>>>> picric acid experiment
+			>>> the Vitalists proposed some sort of vital
+			    force like how animals have heartbeats
+				>>>> roots not necessary --> disproved
+			>>> living leaves, dead xylem
+		>> Not sufficient to move water up the tree,
+		   but holds it up once it's in there
+		>> Could only bring up water ~3 meters
+
+	>> Not Barometric model -- Trees act like barometers
+		>>> being sucked up by pressure difference
+		>>> 1 atmosphere == 1 bar == 0.1 mPa --> not enough
+			>>>> 1 atm only lifts water 10 meters
+		>>> Suction doesn't happen
+
+	>> It is ECAT
+		Evaporation
+		Cohesion
+		Adhesion
+		Tension
+		>>> Held up by capillary action
+
+	>> Root pressure --> small plants can use it, and useful at night
+		>>> happens when transpiration doesn't (night)
+
+
+	ABA accumulation		|	 --#####>
+	Solute accumulation		|	 --#####>
+	Photosynthesis			|<#######--
+	Stomatal Conductance	|<#######--
+	Protein Synthesis		|<####--
+	Wall Synthesis			|<####--
+	Cell Expansion			|<###--
+				L________________________
+				    Decreasing water -->
+
+
+
+> Xylem elements and their interconnections:
+	>> Water moes by bulk flow in lignified xylem cells
+	>> Tracheids (circuitous path for flow) --> Conifers
+		>>> Have pits to connect to adjacent tracheids/VE's
+	>> Vessel Elements 			--> Angiosperms (flowering)
+		>>> Perforation plates and pits
+			>>>> Faster flow
+
+	>> Hagen–Poiseuille Equation
+		>>> Rate_of_flow_in_a_tube = radius^4
+
+		    [pi]r^4 [delta]P
+		J = ----------------
+		      8n [delta]l
+	
+		J = flow rate
+		r = radius
+		P = pressure
+		n = viscosity
+		l = length of tube
+
+
+	>> Wood types:
+		>>> Ring Porous Wood (fastest) => Oak, etc.
+		>>> Diffuse Porous Wood (fast) => Maple, etc.
+		>>> Nonporous Coniferous(slow) => Pine, etc.
+
+> ECAT
+	>> Evaporation
+	>> Cohesion
+	>> Adhesion
+	>> Tension
+
+	>> High concentration of water vapor in the leaves
+	>> water film held as a film by capillary action
+	>> Ascent of water in a tree
+
+
+	E = [delta][psi(leaf-to-soil)] * Hydraulic_Conductivity
+	
+	Cavitated water column can develop into an embolism (gas bubble in a tube)
+		>>> Lianas (vines) --> grapevines used for cavitation studies
+
+	>> Cavitation --> Embolism --> decline in hydraulic conductivity
+		>>> Anytime there is a bubble, decreases amount of water that can make it up
+		>>> Xylem Vulnerability Curves (vulnerability to cavitation)
+		
+				99|+     *		.
+			  	  | +       *		 .
+				80|   +       *		   .
+	Loss of		   |   +         *	    .
+	Hydraulic 	 60|   +          *	    .
+	Conductivity   |    +          *         .
+	(in %)       40|     +         *         .
+			      |      +         *        .
+			    20|--------+--------*-------.----
+			      |          +      *       .
+			    0L|_____________+____*______._____
+			   Lower	---->	    Higher
+				Water Potential (mPa)
+
+		+ = desert plant
+		* = temperate plant
+		. = river valley plant
+
+
+		>>> CAT scans of grape vines show that cavitated vessels can be repaired
+			>>>> Done by moving solute into those vessels and drawing water
+			     into them, you need living xylem cells to do this
+			>>>> Root pressure can fix cavitation at the base of the stem
+			     but not higher up
+
+
+	ΨAir = -10 to -100 mPa
+
+	A			   OO
+       / \			  OOOO
+	|			 OOOOOO
+	| ΨLeaf = -7mPa		OOOOOOOO
+	|			 OOOOOO
+	|		  	   ||
+	| ΨTrunk = -0.8mPa	   ||
+	|			   ||
+	|			   ||
+	|			   ||
+	|		   ________||________
+	| ΨRoot = -0.6mPa	  //\\
+	|			/\/\/\/\
+	ΨSoil = -0.3mPa
+
+
+           REDWOOD
+----------------------------------------+
+      Stomates_Open			
+	      |				
+	 |     .....  Stomates_Shut		
+	 |   ..     .. |			
+  	 |...         ..     . = Evapor.	
+	 |,,,         ,,     , = Ψ		
+	 |  ,,     ,,			
+	 |    ,,,,,			
+	 L___________________			
+	        | TIME |			              
+       sunup      sundown               
+----------------------------------------+
+```
+
+
+
 ## The W Questions
 
 ### Who?
@@ -450,19 +630,105 @@ RubiscO oxygenates
 
 
 
+## C4
+
+There is a spatial separation of carboxylation and sugar synthesis.
+
+`Pep carboxylase` in the mesophyll carboxylates (doesn't oxygenate).  Malate, a C-4 acid, is then sent to the bundle sheath cells for sugar synthesis.
+
+​	Avoids photorespiration, but takes more ATP --> evolved in warm, sunny areas.
+
+​		--> higher photosynthesis rates than C3 at higher temperatures and drier conditions
+
+​		--> you don't need as much nitrogen because you don't need as much enzyme
+
+​			--> Nitrogen Use Efficiency is much higher
 
 
 
+# CAM Photosynthesis
+
+Cacti, Bromeliads, succulents, etc.
+
+​	--> deserts, treetops, bare stone, etc.
+
+​	--> GENERALLY: High light, low water
+
+​		Very high water use efficiency and potentially a high carbon use efficiency
+
+CAM -- ***temporal separation***
+
+​	**Carboxylation during the night --> Stomata open @ night**
+
+​	**Sugar formation during the day --> Stomata closed during the day**
+
+​	It functions as a C3 plant in terms of light reactions during the day. 
+
+​		Pep Carboxylase
+
+```
+                     PEP carboxylase
+                            ↓
+            PEP + CO2 --> malate --> stored in vacuoles over the course of the day
+                                                ↓
+                                    CO2 released into mesophyll cell
+                                                ↓
+                                    sugar formation during the day
+```
 
 
 
+# Phloem -- Sap
+
+## The Sugar Cycle
+
+**Sugar** -- source to sink
+
+​	**Sources:**  photosynthesis in leaves, roots (for carrots, sugar beets, etc.)
+
+​	**Sinks:**       fruits, roots, new leaves
+
+​		 --> generally, sinks are places of rapid growth, which need sugar for respiration and for structure
 
 
 
+The sugar in question?
+
+#### Sucrose!
+
+It is a disaccharide of `glucose + fructose`
+
+Doesn't have a free aldehyde group so it is a non-reducing sugar (less reactive)
+
+​	This is safer for the plant
 
 
 
+### Living Cells
 
+Contrast with xylem's dead vessel elements and tracheids
+
+Called **sieve cells** or **sieve tube elements** --> these cells are *alive*
+
+​	There are also associated cells called **companion cells**.
+
+​		Since sieve cells don't have stuff cells normally have (like organelles), the companion cells aid them
+
+​	**Parenchyma cells** are undifferentiated Phloem tissue
+
+
+
+### How does sap move?
+
+**Bulk Flow** -- movement of a mass of water under a pressure gradient
+
+​	Positive pressure gradient --> turgor pressure
+
+
+
+## There is more than just sugar
+
+![Image result for table 10.2 hall and baker 1972](https://www.docsity.com/documents/pages/2013/01/18/68344db275f4c6d013dff7af5a73f7bc.png)
 
 
 
