@@ -70,8 +70,8 @@ Brian Gallagher		    2 April 2018
 	Protein Synthesis		|<####--
 	Wall Synthesis			|<####--
 	Cell Expansion			|<###--
-				L________________________
-				    Decreasing water -->
+						   L________________________
+				               Decreasing water -->
 
 
 
@@ -150,19 +150,19 @@ Brian Gallagher		    2 April 2018
 
 	ΨAir = -10 to -100 mPa
 
-	A			   OO
-       / \			  OOOO
-	|			 OOOOOO
-	| ΨLeaf = -7mPa		OOOOOOOO
-	|			 OOOOOO
-	|		  	   ||
-	| ΨTrunk = -0.8mPa	   ||
-	|			   ||
-	|			   ||
-	|			   ||
-	|		   ________||________
-	| ΨRoot = -0.6mPa	  //\\
-	|			/\/\/\/\
+	A			           OO
+   /  \			           OOOO
+	|			         OOOOOO
+	| ΨLeaf = -7mPa	     OOOOOOOO
+	|			         OOOOOO
+	|		  	           ||
+	| ΨTrunk = -0.8mPa	    ||
+	|			           ||
+	|			           ||
+	|			           ||
+	|		   	   ________||________
+	| ΨRoot = -0.6mPa  	   //\\
+	|					/\/\/\/\
 	ΨSoil = -0.3mPa
 
 
@@ -678,7 +678,7 @@ CAM -- ***temporal separation***
 
 
 
-# Phloem -- Sap
+# Phloem Transport -- Sap
 
 ## The Sugar Cycle
 
@@ -686,13 +686,15 @@ CAM -- ***temporal separation***
 
 ​	**Sources:**  photosynthesis in leaves, roots (for carrots, sugar beets, etc.)
 
-​	**Sinks:**       fruits, roots, new leaves
+​	**Sinks:**       fruits, roots, new leaves --> anywhere with active metabolism/growth
 
 ​		 --> generally, sinks are places of rapid growth, which need sugar for respiration and for structure
 
+![1524237583548](C:\Users\bmgth\AppData\Local\Temp\1524237583548.png)
 
 
-The sugar in question?
+
+**The sugar in question?**
 
 #### Sucrose!
 
@@ -704,7 +706,7 @@ Doesn't have a free aldehyde group so it is a non-reducing sugar (less reactive)
 
 
 
-### Living Cells
+### Living Cells of the Vascular Tissue
 
 Contrast with xylem's dead vessel elements and tracheids
 
@@ -714,7 +716,21 @@ Called **sieve cells** or **sieve tube elements** --> these cells are *alive*
 
 ​		Since sieve cells don't have stuff cells normally have (like organelles), the companion cells aid them
 
+​		Many plasmodesmata
+
+​	Sieve cells lack nuclei
+
 ​	**Parenchyma cells** are undifferentiated Phloem tissue
+
+![1524237618440](C:\Users\bmgth\AppData\Local\Temp\1524237618440.png)
+
+### Where is Phloem Located?
+
+![1524237799868](C:\Users\bmgth\AppData\Local\Temp\1524237799868.png)
+
+Just inside the layer of bark.
+
+**Girdling** a tree will kill it.
 
 
 
@@ -724,6 +740,8 @@ Called **sieve cells** or **sieve tube elements** --> these cells are *alive*
 
 ​	Positive pressure gradient --> turgor pressure
 
+![1524237847306](C:\Users\bmgth\AppData\Local\Temp\1524237847306.png)
+
 
 
 ## There is more than just sugar
@@ -731,4 +749,6 @@ Called **sieve cells** or **sieve tube elements** --> these cells are *alive*
 ![Image result for table 10.2 hall and baker 1972](https://www.docsity.com/documents/pages/2013/01/18/68344db275f4c6d013dff7af5a73f7bc.png)
 
 
+
+## 
 
