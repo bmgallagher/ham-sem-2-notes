@@ -690,7 +690,7 @@ CAM -- ***temporal separation***
 
 ​		 --> generally, sinks are places of rapid growth, which need sugar for respiration and for structure
 
-![1524237583548](C:\Users\bmgth\AppData\Local\Temp\1524237583548.png)
+**![img](https://lh3.googleusercontent.com/BdJqfmb1f7x12fNTS5Qg70Spv6vsSqUtES-4as89edU0nUaklJ0cwnA0ie510fHOoyxq2IUise7SshqURwpfbbSJn4XdBGGXu7UZ94VkEg-WpEaVvk672vF-DeWx_yGZ3ANeZwNNrDhl2szu9Q)**
 
 
 
@@ -722,11 +722,11 @@ Called **sieve cells** or **sieve tube elements** --> these cells are *alive*
 
 ​	**Parenchyma cells** are undifferentiated Phloem tissue
 
-![1524237618440](C:\Users\bmgth\AppData\Local\Temp\1524237618440.png)
+**![img](https://lh6.googleusercontent.com/mQN3MjvMImoTD7V1MdLjwIKcGr6_IhwnwpQ5KTT4vNCq54KlagTv85BrZ9BS5N7fdpcdpCvqbrIm77WmGpXKc5ZTk34K6edNwTsApondJlrWPSkC10-aBjQPFNuc4t4wuzQgHB_GZvO6pL7ixw)**
 
 ### Where is Phloem Located?
 
-![1524237799868](C:\Users\bmgth\AppData\Local\Temp\1524237799868.png)
+![img](https://lh3.googleusercontent.com/Y9FvS5_OWb5HfZwLNsbB9Gs1eE_in9u-qgQ8sEbrD9TzpOoR2SYXqPkEZ1xDWiq5z5SJixXz6WSGHg4MU_kowChJ0uZNPZ4Ca6iyU4hVilbb_R5_CLtKOmRT6FHOyoHEaJ8JpuoGHGiFgq8v5w)
 
 Just inside the layer of bark.
 
@@ -738,9 +738,47 @@ Just inside the layer of bark.
 
 **Bulk Flow** -- movement of a mass of water under a pressure gradient
 
-​	Positive pressure gradient --> turgor pressure
+​	**Positive pressure gradient** --> turgor pressure
 
-![1524237847306](C:\Users\bmgth\AppData\Local\Temp\1524237847306.png)
+
+
+#### The Münch Pressure Flow Model (1930)
+
+Phloem loading -- source cell producing sugar
+
+Phloem unloading -- sink cell taking in sugar
+
+**![img](https://lh6.googleusercontent.com/cDNfsRxO_Ubip1a82e4_JXI4OOdR5N0ub7l9KbsfAbBL_ftd7nqqrzygFNvY7vDpX9KbGx_kR3qun3LfKJV5Q8SG0qYwC6EuozQNeaPSvZKCEtUx0b8BZEtwQmke9kYBP63dHPBNJMPNK3Ynfg)**
+
+
+
+​		How do they maintain this?
+
+​		Negative water potential due to the solute (sugar).
+
+![img](https://lh4.googleusercontent.com/scFFyOvysE87kG-inwDeSSGfzThR4fARycdOsefMM0xoRdm5xBwwMYJUtKuJ_hCKTKRdnMyYOOMIf5L2DvDruH6HaTWJg67N76WrrnxWwBQ8xaSC63Q3k5TG4U_Pgp2QQ465AY6zlzfDF0itnQ)
+
+P-protein (or "slime")
+
+​	-- protective mechanism, plugs leaks in the phloem cells
+
+
+
+## Companion Cells
+
+There are standard, boring companion cells.  Then, there are...
+
+​	--> Transfer Cells 
+
+​		-- they have wall ingrowths to give more surface area
+
+​		-- **no** plasmodesmatal connections to bundle sheath
+
+​	--> Intermediary Cells
+
+​		-- they have plasmodesmatal connections to bundle sheath
+
+Regular cells may have properties of these specialized cells
 
 
 
@@ -748,7 +786,7 @@ Just inside the layer of bark.
 
 ![Image result for table 10.2 hall and baker 1972](https://www.docsity.com/documents/pages/2013/01/18/68344db275f4c6d013dff7af5a73f7bc.png)
 
+**![img](https://lh5.googleusercontent.com/7Komyl7ZHkiKjBy4M8tjd8FR-RSkWQpI1zuox1B8jdshUjlg4PBqqTH09cpnKexo9p9j7etKkFFF-8nddKGPIcatVMvuQhGxlz1MtGbH7wSvQvN8V_BCYeMsbBJK3ZlMUVjVbjMtZjlWUZqlCA)**
 
 
-## 
 
