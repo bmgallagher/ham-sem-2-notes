@@ -768,15 +768,15 @@ P-protein (or "slime")
 
 There are standard, boring companion cells.  Then, there are...
 
-​	--> Transfer Cells 
+### **Transfer Cells** 
 
 ​		-- they have wall ingrowths to give more surface area
 
 ​		-- **no** plasmodesmatal connections to bundle sheath
 
-​	--> Intermediary Cells
+### **Intermediary Cells**
 
-​		-- they have plasmodesmatal connections to bundle sheath
+​		-- they have plasmodesmatal connections to bundle sheath cells (connected to Mesophyll cells)
 
 Regular cells may have properties of these specialized cells
 
@@ -787,6 +787,134 @@ Regular cells may have properties of these specialized cells
 ![Image result for table 10.2 hall and baker 1972](https://www.docsity.com/documents/pages/2013/01/18/68344db275f4c6d013dff7af5a73f7bc.png)
 
 **![img](https://lh5.googleusercontent.com/7Komyl7ZHkiKjBy4M8tjd8FR-RSkWQpI1zuox1B8jdshUjlg4PBqqTH09cpnKexo9p9j7etKkFFF-8nddKGPIcatVMvuQhGxlz1MtGbH7wSvQvN8V_BCYeMsbBJK3ZlMUVjVbjMtZjlWUZqlCA)**
+
+
+
+
+
+## Phloem Loading
+
+**![img](https://lh6.googleusercontent.com/cDNfsRxO_Ubip1a82e4_JXI4OOdR5N0ub7l9KbsfAbBL_ftd7nqqrzygFNvY7vDpX9KbGx_kR3qun3LfKJV5Q8SG0qYwC6EuozQNeaPSvZKCEtUx0b8BZEtwQmke9kYBP63dHPBNJMPNK3Ynfg)**
+
+Source --> loading of sugar --> sieve cells --> Ψs --> water uptake goes up --> Ψp goes up
+
+![Image result for sugar loading phloem](https://www.frontiersin.org/files/Articles/131908/fpls-06-00275-r2/image_m/fpls-06-00275-g002.jpg)
+
+In intermediary cells, another glucose or two are added to the sucrose: makes it too big to move out the plasmodesmata it came in through, but small enough to go through the next one
+
+![Image result for raffinose phloem](http://slideplayer.com/6250458/21/images/33/Symplastic+phloem+loading.jpg)
+
+
+
+# Environmental Signaling
+
+## Plant Growth and Development
+
+### Hormones
+
+#### The Environment
+
+The environment influences hormones influences growth and development leading to flowering.
+
+##### Seasonality
+
+*Plants live in a seasonal environment.*
+
+​	-- Temperature is the seasonal queue around here
+
+​	-- In the tropics, it's water.
+
+​	-- Light is also an important queue
+
+Going into and coming out of dormancy are critical.  Inactive state. --> prevent inappropriate growth under temporary favorable conditions (like a few warm days of winter).
+
+**Stratification** of seeds = suspended animation --> seeds, required for exposure to low temps (freezing)
+
+##### 	Dormancy
+
+​		Endodormancy: when a meristem can't grow if provided with appropriate conditions
+
+​		Paradormancy: when a meristem can grow, but is blocked by:
+
+​			apical dominance (IAA)
+
+​			seed coat inhibition -- waterproof seed coat keeps water out 
+
+​				Scarification -- Being scratched, some plants need this
+
+![Image result for seed coat](http://www.t5fixtures.com/wp-content/uploads/2016/08/large.jpg)
+
+​		Ecodormancy: when a meristem can receive stratification yet still won't grow yet
+
+​			waiting for the correct ecological conditions.
+
+**Vernalization** --> flowers
+
+​	ABA enforces dormancy
+
+​	GA breaks dormancy
+
+​		Arabidopsis study
+
+​			Frigida (FRI) <-- functional or mutated
+
+​				Enables expression of Flowering Locus Control (FLC) 
+
+​					--> represses expression of "flowering genes"
+
+
+
+![Image result for frigida arabidopsis time to flower latitude](http://www.pnas.org/content/pnas/101/13/4712/F2.large.jpg)
+
+https://www.jstage.jst.go.jp/article/jjshs1925/41/4/41_4_383/_pdf
+
+A way to envision this community of genes/proteins:
+
+![Image result for whole transcriptome profiling of the vernalization process](http://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12864-015-1675-1/MediaObjects/12864_2015_1675_Fig2_HTML.gif)
+
+## Light
+
+![Image result for action spectrum for blue light oat coleoptiles](https://reader001.docslide.com.br/reader001/slide/20170803/568165a4550346895dd8862b/document-26.png)
+
+Phototropism --> blue light --> Cryptochrome (CRY)
+
+​	Some animals also have them
+
+**Time**
+
+**Intensity**
+
+**On : Off**
+
+**"Quality" --> Wavelength**
+
+
+
+Responses:
+
+​	growth response --> phototropism
+
+​	stomatal opening <-- physiological
+
+​	deetiolation <-- developmental
+
+​		**etiolation** is
+
+​			rapid elongation growth
+
+​			dicot -- apical hook
+
+​			no chlorophyll --> limited plastid development (red light response)
+
+​			no anthocyanin -- blue pigment that acts like sunscreen to absorb light
+
+Red Light -- seed germination and phytochrome response (reversible)
+
+​	phytochrome is turned on by red light, off by far red light
+
+​		It is a cis/trans change
+
+![Image result for absorption spectra of pr and pfr](https://www.researchgate.net/profile/Haiyang_Wang6/publication/221803969/figure/fig1/AS:305413120643076@1449827570633/Absorption-spectra-of-phytochromes-EVRUSWLRQ-VSHFWUD-RI-WKH-WZR-IRUPV-3U-DQG-3IU-RI.png)
 
 
 
